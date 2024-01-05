@@ -30,7 +30,7 @@ Welcome to the Cat-Dog Classification project! This project aims to classify ima
 
 ## Issues and Contributions
 
-If you encounter any issues or have suggestions for improvements, please feel free to open an [issue](https://github.com/your-username/cat-dog-classifier/issues). Contributions are also welcome!
+If you encounter any issues or have suggestions for improvements, please feel free to open an [issue](https://github.com/mahmoudalrefaey/cat-dog-classifier/issues). Contributions are also welcome!
 
 ## Appreciation
 
